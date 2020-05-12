@@ -1,1 +1,1 @@
-# HandGestureUseingCNN
+# HandGestureUsingCNN
